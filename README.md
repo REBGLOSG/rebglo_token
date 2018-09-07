@@ -13,8 +13,10 @@ There is a function to check user's balance tier. It is called checkBalanceTier.
 # Deployed contracts
 ## Token contract
 Address: 0x61383Ac89988B498dF5363050ff07fE5C52ecDDA
+
 URL: https://etherscan.io/address/0x61383ac89988b498df5363050ff07fe5c52ecdda
 
 ## Crowdsale contract
 Address: 0x4D0269b1898bEE6aA94F54D1724F9862aAbdd010
+
 URL: https://etherscan.io/address/0x4d0269b1898bee6aa94f54d1724f9862aabdd010
